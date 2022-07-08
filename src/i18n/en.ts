@@ -66,6 +66,11 @@ export const EN: ILocales = {
   PICBED_UPYUN_URL: 'Set URL',
   PICBED_UPYUN_OPTIONS: 'Set URL Suffix',
 
+  // internal
+  PICBED_INTERNAL: 'Internal',
+  PICBED_INTERNAL_URL: 'Internal URL',
+  PICBED_INTERNAL_VERSION: 'Internal Version',
+
   // Plugin Handler
   PLUGIN_HANDLER_PLUGIN_INSTALL_SUCCESS: 'Plugin installed successfully',
   PLUGIN_HANDLER_PLUGIN_INSTALL_FAILED: 'Plugin installation failed',

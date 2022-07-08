@@ -64,6 +64,11 @@ export const ZH_CN = {
   PICBED_UPYUN_URL: '设定加速域名',
   PICBED_UPYUN_OPTIONS: '设定网址后缀',
 
+  // internal
+  PICBED_INTERNAL: 'Internal',
+  PICBED_INTERNAL_URL: 'Internal URL',
+  PICBED_INTERNAL_VERSION: 'Internal Version',
+
   // Plugin Handler
   PLUGIN_HANDLER_PLUGIN_INSTALL_SUCCESS: '插件安装成功',
   PLUGIN_HANDLER_PLUGIN_INSTALL_FAILED: '插件安装失败',

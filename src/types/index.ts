@@ -279,6 +279,11 @@ export interface IImgurConfig {
   /** 代理地址，仅支持 http 代理 */
   proxy: string
 }
+/** Internal */
+export interface IInternalConfig {
+  url: string
+  version: number
+}
 /** PicGo 配置文件类型定义 */
 export interface IConfig {
   picBed: {
